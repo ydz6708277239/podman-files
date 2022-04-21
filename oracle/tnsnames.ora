@@ -1,0 +1,11 @@
+oodb = 
+   (DESCRIPTION =
+      (ADDRESS = 
+         (PROTOCOL = TCP)
+         (HOST = )
+         (PORT = )
+      )
+      (CONNECT_DATA =
+         (SERVICE_NAME = )
+      )
+   )
